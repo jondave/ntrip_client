@@ -1,5 +1,9 @@
 # ROS NTRIP Client
 
+Don't use this repo used for MAVlink UAVs etc.
+
+Instead use https://github.com/jondave/ntrip_ros
+
 Needs mavros_msgs ```sudo apt install ros-melodic-mavros-msgs```
 nmea_msgs ```sudo apt install ros-melodic-nmea-msgs```
 
