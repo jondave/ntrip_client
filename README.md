@@ -1,5 +1,7 @@
 # ROS NTRIP Client
 
+Needs mavros_msgs ```sudo apt install ros-melodic-mavros-msgs```
+
 ## Description
 
 ROS node that will communicate with an NTRIP server to receive RTCM connections and publish them on a ROS topic. Also works with network/VRS mountpoints by subscribing to NMEA
