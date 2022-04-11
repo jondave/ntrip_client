@@ -1,6 +1,8 @@
 # ROS NTRIP Client
 
 Needs mavros_msgs ```sudo apt install ros-melodic-mavros-msgs```
+nmea_msgs ```sudo apt install ros-melodic-nmea-msgs```
+
 
 ## Description
 
